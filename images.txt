@@ -1,2 +1,2 @@
 alpine
-edis:7.4.1-alpine
+redis:7.4.1-alpine
